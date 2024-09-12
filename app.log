@@ -1,0 +1,443 @@
+2024-09-12 16:45:56,860 - INFO - Generating file from URL: http://results.beup.ac.in/ResultsBTech3rdSem2022_B2021Pub.aspx?Sem=III&RegNo=
+2024-09-12 16:45:56,861 - INFO - Fetching data for registration number: 21105113001
+2024-09-12 16:45:56,862 - INFO - Fetching data for registration number: 21105113002
+2024-09-12 16:45:56,864 - INFO - Fetching data for registration number: 21105113003
+2024-09-12 16:45:56,865 - INFO - Fetching data for registration number: 21105113004
+2024-09-12 16:45:56,875 - INFO - Fetching data for registration number: 21105113005
+2024-09-12 16:45:56,878 - INFO - Fetching data for registration number: 21105113006
+2024-09-12 16:45:56,881 - INFO - Fetching data for registration number: 21105113007
+2024-09-12 16:45:56,884 - INFO - Fetching data for registration number: 21105113008
+2024-09-12 16:45:56,885 - INFO - Fetching data for registration number: 21105113009
+2024-09-12 16:45:56,890 - INFO - Fetching data for registration number: 21105113010
+2024-09-12 16:45:58,302 - INFO - Fetching data for registration number: 21105113011
+2024-09-12 16:45:58,346 - INFO - Fetching data for registration number: 21105113012
+2024-09-12 16:45:58,381 - INFO - Fetching data for registration number: 21105113013
+2024-09-12 16:45:58,386 - INFO - Fetching data for registration number: 21105113014
+2024-09-12 16:45:58,408 - INFO - Fetching data for registration number: 21105113015
+2024-09-12 16:45:58,562 - INFO - Fetching data for registration number: 21105113016
+2024-09-12 16:45:58,573 - INFO - Fetching data for registration number: 21105113017
+2024-09-12 16:45:59,599 - INFO - Fetching data for registration number: 21105113018
+2024-09-12 16:45:59,601 - INFO - Fetching data for registration number: 21105113019
+2024-09-12 16:45:59,622 - INFO - Fetching data for registration number: 21105113020
+2024-09-12 16:45:59,637 - INFO - Fetching data for registration number: 21105113021
+2024-09-12 16:45:59,650 - INFO - Fetching data for registration number: 21105113022
+2024-09-12 16:45:59,731 - INFO - Fetching data for registration number: 21105113023
+2024-09-12 16:45:59,767 - INFO - Fetching data for registration number: 21105113024
+2024-09-12 16:45:59,786 - INFO - Fetching data for registration number: 21105113025
+2024-09-12 16:45:59,858 - INFO - Fetching data for registration number: 21105113026
+2024-09-12 16:45:59,894 - INFO - Fetching data for registration number: 21105113027
+2024-09-12 16:46:00,664 - INFO - Fetching data for registration number: 21105113028
+2024-09-12 16:46:00,679 - INFO - Fetching data for registration number: 21105113029
+2024-09-12 16:46:00,732 - INFO - Fetching data for registration number: 21105113030
+2024-09-12 16:46:00,759 - INFO - Fetching data for registration number: 21105113031
+2024-09-12 16:46:00,785 - INFO - Fetching data for registration number: 21105113032
+2024-09-12 16:46:00,977 - INFO - Fetching data for registration number: 21105113033
+2024-09-12 16:46:01,019 - INFO - Fetching data for registration number: 21105113034
+2024-09-12 16:46:01,037 - INFO - Fetching data for registration number: 21105113035
+2024-09-12 16:46:01,963 - INFO - Fetching data for registration number: 21105113036
+2024-09-12 16:46:01,993 - INFO - Fetching data for registration number: 21105113037
+2024-09-12 16:46:02,153 - INFO - Fetching data for registration number: 21105113038
+2024-09-12 16:46:02,425 - INFO - Fetching data for registration number: 21105113039
+2024-09-12 16:46:02,547 - INFO - Fetching data for registration number: 21105113040
+2024-09-12 16:46:02,576 - INFO - Fetching data for registration number: 21105113041
+2024-09-12 16:46:02,692 - INFO - Fetching data for registration number: 21105113042
+2024-09-12 16:46:02,776 - INFO - Fetching data for registration number: 21105113043
+2024-09-12 16:46:02,814 - INFO - Fetching data for registration number: 21105113044
+2024-09-12 16:46:02,966 - INFO - Fetching data for registration number: 21105113045
+2024-09-12 16:46:03,023 - INFO - Fetching data for registration number: 21105113046
+2024-09-12 16:46:03,204 - INFO - Fetching data for registration number: 21105113047
+2024-09-12 16:46:03,403 - INFO - Fetching data for registration number: 21105113048
+2024-09-12 16:46:03,423 - INFO - Fetching data for registration number: 21105113049
+2024-09-12 16:46:03,487 - WARNING - No data found for registration number: 21105113044
+2024-09-12 16:46:03,488 - INFO - Fetching data for registration number: 21105113050
+2024-09-12 16:46:03,533 - INFO - Fetching data for registration number: 21105113051
+2024-09-12 16:46:03,554 - INFO - Fetching data for registration number: 21105113052
+2024-09-12 16:46:03,658 - INFO - Fetching data for registration number: 21105113053
+2024-09-12 16:46:03,734 - INFO - Fetching data for registration number: 21105113054
+2024-09-12 16:46:03,960 - INFO - Fetching data for registration number: 21105113055
+2024-09-12 16:46:03,991 - INFO - Fetching data for registration number: 21105113056
+2024-09-12 16:46:04,146 - INFO - Fetching data for registration number: 21105113057
+2024-09-12 16:46:04,361 - INFO - Fetching data for registration number: 21105113058
+2024-09-12 16:46:04,411 - INFO - Fetching data for registration number: 21105113059
+2024-09-12 16:46:04,481 - INFO - Fetching data for registration number: 21105113060
+2024-09-12 16:46:04,572 - INFO - Fetching data for registration number: 21105113061
+2024-09-12 16:46:04,591 - INFO - Fetching data for registration number: 21105113062
+2024-09-12 16:46:04,652 - INFO - Fetching data for registration number: 21105113063
+2024-09-12 16:46:04,667 - WARNING - No data found for registration number: 21105113055
+2024-09-12 16:46:04,668 - INFO - Fetching data for registration number: 21105113064
+2024-09-12 16:46:04,754 - INFO - Fetching data for registration number: 21105113065
+2024-09-12 16:46:05,064 - WARNING - No data found for registration number: 21105113059
+2024-09-12 16:46:05,064 - INFO - Fetching data for registration number: 22105113901
+2024-09-12 16:46:05,207 - INFO - Fetching data for registration number: 22105113902
+2024-09-12 16:46:05,371 - INFO - Fetching data for registration number: 22105113903
+2024-09-12 16:46:05,380 - WARNING - No data found for registration number: 21105113064
+2024-09-12 16:46:05,380 - INFO - Fetching data for registration number: 22105113904
+2024-09-12 16:46:05,548 - WARNING - No data found for registration number: 21105113065
+2024-09-12 16:46:05,549 - INFO - Fetching data for registration number: 22105113905
+2024-09-12 16:46:06,132 - WARNING - No data found for registration number: 22105113904
+2024-09-12 16:46:06,133 - INFO - Fetching data for registration number: 22105113906
+2024-09-12 16:46:06,506 - WARNING - No data found for registration number: 21105113060
+2024-09-12 16:46:06,506 - INFO - Fetching data for registration number: 22105113907
+2024-09-12 16:46:06,618 - INFO - Fetching data for registration number: 22105113908
+2024-09-12 16:46:06,688 - WARNING - No data found for registration number: 21105113061
+2024-09-12 16:46:06,688 - WARNING - No data found for registration number: 21105113062
+2024-09-12 16:46:06,689 - INFO - Fetching data for registration number: 22105113909
+2024-09-12 16:46:06,690 - INFO - Fetching data for registration number: 22105113910
+2024-09-12 16:46:06,914 - WARNING - No data found for registration number: 21105113063
+2024-09-12 16:46:06,924 - INFO - Fetching data for registration number: 22105113911
+2024-09-12 16:46:06,925 - INFO - Fetching data for registration number: 22105113912
+2024-09-12 16:46:06,946 - INFO - Fetching data for registration number: 22105113913
+2024-09-12 16:46:06,968 - INFO - Fetching data for registration number: 22105113914
+2024-09-12 16:46:07,101 - INFO - Fetching data for registration number: 22105113915
+2024-09-12 16:46:12,209 - WARNING - No data found for registration number: 22105113911
+2024-09-12 16:46:12,209 - WARNING - No data found for registration number: 22105113913
+2024-09-12 16:46:12,210 - WARNING - No data found for registration number: 22105113912
+2024-09-12 16:46:12,210 - WARNING - No data found for registration number: 22105113914
+2024-09-12 16:46:12,211 - INFO - Fetching data for registration number: 22105113916
+2024-09-12 16:46:12,212 - INFO - Fetching data for registration number: 22105113917
+2024-09-12 16:46:12,212 - INFO - Fetching data for registration number: 22105113918
+2024-09-12 16:46:12,213 - INFO - Fetching data for registration number: 22105113919
+2024-09-12 16:46:12,572 - INFO - Fetching data for registration number: 22105113920
+2024-09-12 16:46:12,587 - INFO - Fetching data for registration number: 22105113921
+2024-09-12 16:46:12,597 - INFO - Fetching data for registration number: 22105113922
+2024-09-12 16:46:12,609 - INFO - Fetching data for registration number: 22105113923
+2024-09-12 16:46:12,628 - INFO - Fetching data for registration number: 22105113924
+2024-09-12 16:46:13,153 - WARNING - No data found for registration number: 22105113915
+2024-09-12 16:46:13,154 - INFO - Fetching data for registration number: 22105113925
+2024-09-12 16:46:13,274 - WARNING - No data found for registration number: 22105113919
+2024-09-12 16:46:13,275 - WARNING - No data found for registration number: 22105113916
+2024-09-12 16:46:13,276 - WARNING - No data found for registration number: 22105113918
+2024-09-12 16:46:13,277 - WARNING - No data found for registration number: 22105113917
+2024-09-12 16:46:13,484 - WARNING - No data found for registration number: 22105113923
+2024-09-12 16:46:13,488 - WARNING - No data found for registration number: 22105113920
+2024-09-12 16:46:13,498 - WARNING - No data found for registration number: 22105113924
+2024-09-12 16:46:13,514 - WARNING - No data found for registration number: 22105113922
+2024-09-12 16:46:13,571 - WARNING - No data found for registration number: 22105113921
+2024-09-12 16:46:13,845 - WARNING - No data found for registration number: 22105113925
+2024-09-12 16:46:13,852 - INFO - Stored data for registration number: 21105113005 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,854 - INFO - Stored data for registration number: 21105113005 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,855 - INFO - Stored data for registration number: 21105113005 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,856 - INFO - Stored data for registration number: 21105113005 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,857 - INFO - Stored data for registration number: 21105113005 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,857 - INFO - Stored data for registration number: 21105113009 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,857 - INFO - Stored data for registration number: 21105113009 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,858 - INFO - Stored data for registration number: 21105113009 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,858 - INFO - Stored data for registration number: 21105113009 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,858 - INFO - Stored data for registration number: 21105113009 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,859 - INFO - Stored data for registration number: 21105113001 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,859 - INFO - Stored data for registration number: 21105113001 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,859 - INFO - Stored data for registration number: 21105113001 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,860 - INFO - Stored data for registration number: 21105113001 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,860 - INFO - Stored data for registration number: 21105113001 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,860 - INFO - Stored data for registration number: 21105113010 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,861 - INFO - Stored data for registration number: 21105113010 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,861 - INFO - Stored data for registration number: 21105113010 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,861 - INFO - Stored data for registration number: 21105113010 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,861 - INFO - Stored data for registration number: 21105113010 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,862 - INFO - Stored data for registration number: 21105113004 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,862 - INFO - Stored data for registration number: 21105113004 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,863 - INFO - Stored data for registration number: 21105113004 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,864 - INFO - Stored data for registration number: 21105113004 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,864 - INFO - Stored data for registration number: 21105113004 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,865 - INFO - Stored data for registration number: 21105113008 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,865 - INFO - Stored data for registration number: 21105113008 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,866 - INFO - Stored data for registration number: 21105113008 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,866 - INFO - Stored data for registration number: 21105113008 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,867 - INFO - Stored data for registration number: 21105113008 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,867 - INFO - Stored data for registration number: 21105113002 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,868 - INFO - Stored data for registration number: 21105113002 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,869 - INFO - Stored data for registration number: 21105113002 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,870 - INFO - Stored data for registration number: 21105113002 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,871 - INFO - Stored data for registration number: 21105113002 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,872 - INFO - Stored data for registration number: 21105113012 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,875 - INFO - Stored data for registration number: 21105113012 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,876 - INFO - Stored data for registration number: 21105113012 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,877 - INFO - Stored data for registration number: 21105113012 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,878 - INFO - Stored data for registration number: 21105113012 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,879 - INFO - Stored data for registration number: 21105113013 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,881 - INFO - Stored data for registration number: 21105113013 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,881 - INFO - Stored data for registration number: 21105113013 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,882 - INFO - Stored data for registration number: 21105113013 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,890 - INFO - Stored data for registration number: 21105113013 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,891 - INFO - Stored data for registration number: 21105113015 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,891 - INFO - Stored data for registration number: 21105113015 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,892 - INFO - Stored data for registration number: 21105113015 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,892 - INFO - Stored data for registration number: 21105113015 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,893 - INFO - Stored data for registration number: 21105113015 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,893 - INFO - Stored data for registration number: 21105113011 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,894 - INFO - Stored data for registration number: 21105113011 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,894 - INFO - Stored data for registration number: 21105113011 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,894 - INFO - Stored data for registration number: 21105113011 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,895 - INFO - Stored data for registration number: 21105113011 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,895 - INFO - Stored data for registration number: 21105113014 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,895 - INFO - Stored data for registration number: 21105113014 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,896 - INFO - Stored data for registration number: 21105113014 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,897 - INFO - Stored data for registration number: 21105113014 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,897 - INFO - Stored data for registration number: 21105113014 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,898 - INFO - Stored data for registration number: 21105113006 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,898 - INFO - Stored data for registration number: 21105113006 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,898 - INFO - Stored data for registration number: 21105113006 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,899 - INFO - Stored data for registration number: 21105113006 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,899 - INFO - Stored data for registration number: 21105113006 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,899 - INFO - Stored data for registration number: 21105113007 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,900 - INFO - Stored data for registration number: 21105113007 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,900 - INFO - Stored data for registration number: 21105113007 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,901 - INFO - Stored data for registration number: 21105113007 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,901 - INFO - Stored data for registration number: 21105113007 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,902 - INFO - Stored data for registration number: 21105113003 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,902 - INFO - Stored data for registration number: 21105113003 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,902 - INFO - Stored data for registration number: 21105113003 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,903 - INFO - Stored data for registration number: 21105113003 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,903 - INFO - Stored data for registration number: 21105113003 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,903 - INFO - Stored data for registration number: 21105113017 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,904 - INFO - Stored data for registration number: 21105113017 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,904 - INFO - Stored data for registration number: 21105113017 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,904 - INFO - Stored data for registration number: 21105113017 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,905 - INFO - Stored data for registration number: 21105113017 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,905 - INFO - Stored data for registration number: 21105113016 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,905 - INFO - Stored data for registration number: 21105113016 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,906 - INFO - Stored data for registration number: 21105113016 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,906 - INFO - Stored data for registration number: 21105113016 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,906 - INFO - Stored data for registration number: 21105113016 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,907 - INFO - Stored data for registration number: 21105113022 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,907 - INFO - Stored data for registration number: 21105113022 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,907 - INFO - Stored data for registration number: 21105113022 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,908 - INFO - Stored data for registration number: 21105113022 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,908 - INFO - Stored data for registration number: 21105113022 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,909 - INFO - Stored data for registration number: 21105113018 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,909 - INFO - Stored data for registration number: 21105113018 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,910 - INFO - Stored data for registration number: 21105113018 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,910 - INFO - Stored data for registration number: 21105113018 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,910 - INFO - Stored data for registration number: 21105113018 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,911 - INFO - Stored data for registration number: 21105113020 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,911 - INFO - Stored data for registration number: 21105113020 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,911 - INFO - Stored data for registration number: 21105113020 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,911 - INFO - Stored data for registration number: 21105113020 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,911 - INFO - Stored data for registration number: 21105113020 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,912 - INFO - Stored data for registration number: 21105113021 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,912 - INFO - Stored data for registration number: 21105113021 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,912 - INFO - Stored data for registration number: 21105113021 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,912 - INFO - Stored data for registration number: 21105113021 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,913 - INFO - Stored data for registration number: 21105113021 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,913 - INFO - Stored data for registration number: 21105113019 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,913 - INFO - Stored data for registration number: 21105113019 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,913 - INFO - Stored data for registration number: 21105113019 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,914 - INFO - Stored data for registration number: 21105113019 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,914 - INFO - Stored data for registration number: 21105113019 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,915 - INFO - Stored data for registration number: 21105113025 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,915 - INFO - Stored data for registration number: 21105113025 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,915 - INFO - Stored data for registration number: 21105113025 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,916 - INFO - Stored data for registration number: 21105113025 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,916 - INFO - Stored data for registration number: 21105113025 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,916 - INFO - Stored data for registration number: 21105113027 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,917 - INFO - Stored data for registration number: 21105113027 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,917 - INFO - Stored data for registration number: 21105113027 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,917 - INFO - Stored data for registration number: 21105113027 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,918 - INFO - Stored data for registration number: 21105113027 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,918 - INFO - Stored data for registration number: 21105113024 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,918 - INFO - Stored data for registration number: 21105113024 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,919 - INFO - Stored data for registration number: 21105113024 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,919 - INFO - Stored data for registration number: 21105113024 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,919 - INFO - Stored data for registration number: 21105113024 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,920 - INFO - Stored data for registration number: 21105113026 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,920 - INFO - Stored data for registration number: 21105113026 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,920 - INFO - Stored data for registration number: 21105113026 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,921 - INFO - Stored data for registration number: 21105113026 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,921 - INFO - Stored data for registration number: 21105113026 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,921 - INFO - Stored data for registration number: 21105113033 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,922 - INFO - Stored data for registration number: 21105113033 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,922 - INFO - Stored data for registration number: 21105113033 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,924 - INFO - Stored data for registration number: 21105113033 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,924 - INFO - Stored data for registration number: 21105113033 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,925 - INFO - Stored data for registration number: 21105113032 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,925 - INFO - Stored data for registration number: 21105113032 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,926 - INFO - Stored data for registration number: 21105113032 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,926 - INFO - Stored data for registration number: 21105113032 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,926 - INFO - Stored data for registration number: 21105113032 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,927 - INFO - Stored data for registration number: 21105113031 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,927 - INFO - Stored data for registration number: 21105113031 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,927 - INFO - Stored data for registration number: 21105113031 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,928 - INFO - Stored data for registration number: 21105113031 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,928 - INFO - Stored data for registration number: 21105113031 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,928 - INFO - Stored data for registration number: 21105113023 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,929 - INFO - Stored data for registration number: 21105113023 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,929 - INFO - Stored data for registration number: 21105113023 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,929 - INFO - Stored data for registration number: 21105113023 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,930 - INFO - Stored data for registration number: 21105113023 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,930 - INFO - Stored data for registration number: 21105113029 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,930 - INFO - Stored data for registration number: 21105113029 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,931 - INFO - Stored data for registration number: 21105113029 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,931 - INFO - Stored data for registration number: 21105113029 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,932 - INFO - Stored data for registration number: 21105113029 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,932 - INFO - Stored data for registration number: 21105113034 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,932 - INFO - Stored data for registration number: 21105113034 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,933 - INFO - Stored data for registration number: 21105113034 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,933 - INFO - Stored data for registration number: 21105113034 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,933 - INFO - Stored data for registration number: 21105113034 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,934 - INFO - Stored data for registration number: 21105113028 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,934 - INFO - Stored data for registration number: 21105113028 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,934 - INFO - Stored data for registration number: 21105113028 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,935 - INFO - Stored data for registration number: 21105113028 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,935 - INFO - Stored data for registration number: 21105113028 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,935 - INFO - Stored data for registration number: 21105113030 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,936 - INFO - Stored data for registration number: 21105113030 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,936 - INFO - Stored data for registration number: 21105113030 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,936 - INFO - Stored data for registration number: 21105113030 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,937 - INFO - Stored data for registration number: 21105113030 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,937 - INFO - Stored data for registration number: 21105113036 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,937 - INFO - Stored data for registration number: 21105113036 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,938 - INFO - Stored data for registration number: 21105113036 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,938 - INFO - Stored data for registration number: 21105113036 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,938 - INFO - Stored data for registration number: 21105113036 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,939 - INFO - Stored data for registration number: 21105113037 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,939 - INFO - Stored data for registration number: 21105113037 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,940 - INFO - Stored data for registration number: 21105113037 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,940 - INFO - Stored data for registration number: 21105113037 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,940 - INFO - Stored data for registration number: 21105113037 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,941 - INFO - Stored data for registration number: 21105113038 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,941 - INFO - Stored data for registration number: 21105113038 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,941 - INFO - Stored data for registration number: 21105113038 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,942 - INFO - Stored data for registration number: 21105113038 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,942 - INFO - Stored data for registration number: 21105113038 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,942 - INFO - Stored data for registration number: 21105113035 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,943 - INFO - Stored data for registration number: 21105113035 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,943 - INFO - Stored data for registration number: 21105113035 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,943 - INFO - Stored data for registration number: 21105113035 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,944 - INFO - Stored data for registration number: 21105113035 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,944 - INFO - Stored data for registration number: 21105113039 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,944 - INFO - Stored data for registration number: 21105113039 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,945 - INFO - Stored data for registration number: 21105113039 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,945 - INFO - Stored data for registration number: 21105113039 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,945 - INFO - Stored data for registration number: 21105113039 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,946 - INFO - Stored data for registration number: 21105113041 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,946 - INFO - Stored data for registration number: 21105113041 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,946 - INFO - Stored data for registration number: 21105113041 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,947 - INFO - Stored data for registration number: 21105113041 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,947 - INFO - Stored data for registration number: 21105113041 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,947 - INFO - Stored data for registration number: 21105113040 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,948 - INFO - Stored data for registration number: 21105113040 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,948 - INFO - Stored data for registration number: 21105113040 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,948 - INFO - Stored data for registration number: 21105113040 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,949 - INFO - Stored data for registration number: 21105113040 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,949 - INFO - Stored data for registration number: 21105113042 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,950 - INFO - Stored data for registration number: 21105113042 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,950 - INFO - Stored data for registration number: 21105113042 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,950 - INFO - Stored data for registration number: 21105113042 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,951 - INFO - Stored data for registration number: 21105113042 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,951 - INFO - Stored data for registration number: 21105113043 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,951 - INFO - Stored data for registration number: 21105113043 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,952 - INFO - Stored data for registration number: 21105113043 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,952 - INFO - Stored data for registration number: 21105113043 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,952 - INFO - Stored data for registration number: 21105113043 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,953 - INFO - Stored data for registration number: 21105113045 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,953 - INFO - Stored data for registration number: 21105113045 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,953 - INFO - Stored data for registration number: 21105113045 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,953 - INFO - Stored data for registration number: 21105113045 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,954 - INFO - Stored data for registration number: 21105113045 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,954 - INFO - Stored data for registration number: 21105113046 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,954 - INFO - Stored data for registration number: 21105113046 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,954 - INFO - Stored data for registration number: 21105113046 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,954 - INFO - Stored data for registration number: 21105113046 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,955 - INFO - Stored data for registration number: 21105113046 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,955 - INFO - Stored data for registration number: 21105113047 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,955 - INFO - Stored data for registration number: 21105113047 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,955 - INFO - Stored data for registration number: 21105113047 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,956 - INFO - Stored data for registration number: 21105113047 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,956 - INFO - Stored data for registration number: 21105113047 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,956 - INFO - Stored data for registration number: 21105113048 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,956 - INFO - Stored data for registration number: 21105113048 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,956 - INFO - Stored data for registration number: 21105113048 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,957 - INFO - Stored data for registration number: 21105113048 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,957 - INFO - Stored data for registration number: 21105113048 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,957 - INFO - Stored data for registration number: 21105113049 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,957 - INFO - Stored data for registration number: 21105113049 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,958 - INFO - Stored data for registration number: 21105113049 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,958 - INFO - Stored data for registration number: 21105113049 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,958 - INFO - Stored data for registration number: 21105113049 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,958 - INFO - Stored data for registration number: 21105113050 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,958 - INFO - Stored data for registration number: 21105113050 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,959 - INFO - Stored data for registration number: 21105113050 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,959 - INFO - Stored data for registration number: 21105113050 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,959 - INFO - Stored data for registration number: 21105113050 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,959 - INFO - Stored data for registration number: 21105113052 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,960 - INFO - Stored data for registration number: 21105113052 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,960 - INFO - Stored data for registration number: 21105113052 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,960 - INFO - Stored data for registration number: 21105113052 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,960 - INFO - Stored data for registration number: 21105113052 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,961 - INFO - Stored data for registration number: 21105113051 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,961 - INFO - Stored data for registration number: 21105113051 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,961 - INFO - Stored data for registration number: 21105113051 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,961 - INFO - Stored data for registration number: 21105113051 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,962 - INFO - Stored data for registration number: 21105113051 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,962 - INFO - Stored data for registration number: 21105113053 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,962 - INFO - Stored data for registration number: 21105113053 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,962 - INFO - Stored data for registration number: 21105113053 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,963 - INFO - Stored data for registration number: 21105113053 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,963 - INFO - Stored data for registration number: 21105113053 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,963 - INFO - Stored data for registration number: 21105113054 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,963 - INFO - Stored data for registration number: 21105113054 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,964 - INFO - Stored data for registration number: 21105113054 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,964 - INFO - Stored data for registration number: 21105113054 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,964 - INFO - Stored data for registration number: 21105113054 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,965 - INFO - Stored data for registration number: 21105113057 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,965 - INFO - Stored data for registration number: 21105113057 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,965 - INFO - Stored data for registration number: 21105113057 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,965 - INFO - Stored data for registration number: 21105113057 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,966 - INFO - Stored data for registration number: 21105113057 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,966 - INFO - Stored data for registration number: 21105113058 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,966 - INFO - Stored data for registration number: 21105113058 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,966 - INFO - Stored data for registration number: 21105113058 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,967 - INFO - Stored data for registration number: 21105113058 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,967 - INFO - Stored data for registration number: 21105113058 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,967 - INFO - Stored data for registration number: 21105113056 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,967 - INFO - Stored data for registration number: 21105113056 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,968 - INFO - Stored data for registration number: 21105113056 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,968 - INFO - Stored data for registration number: 21105113056 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,968 - INFO - Stored data for registration number: 21105113056 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,968 - INFO - Stored data for registration number: 22105113902 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,969 - INFO - Stored data for registration number: 22105113902 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,969 - INFO - Stored data for registration number: 22105113902 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,969 - INFO - Stored data for registration number: 22105113902 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,970 - INFO - Stored data for registration number: 22105113902 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,970 - INFO - Stored data for registration number: 22105113905 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,970 - INFO - Stored data for registration number: 22105113905 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,971 - INFO - Stored data for registration number: 22105113905 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,971 - INFO - Stored data for registration number: 22105113905 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,971 - INFO - Stored data for registration number: 22105113905 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,972 - INFO - Stored data for registration number: 22105113901 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,972 - INFO - Stored data for registration number: 22105113901 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,972 - INFO - Stored data for registration number: 22105113901 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,973 - INFO - Stored data for registration number: 22105113901 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,973 - INFO - Stored data for registration number: 22105113901 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,973 - INFO - Stored data for registration number: 22105113903 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,974 - INFO - Stored data for registration number: 22105113903 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,974 - INFO - Stored data for registration number: 22105113903 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,974 - INFO - Stored data for registration number: 22105113903 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,975 - INFO - Stored data for registration number: 22105113903 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,975 - INFO - Stored data for registration number: 22105113909 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,975 - INFO - Stored data for registration number: 22105113909 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,975 - INFO - Stored data for registration number: 22105113909 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,976 - INFO - Stored data for registration number: 22105113909 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,976 - INFO - Stored data for registration number: 22105113909 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,976 - INFO - Stored data for registration number: 22105113908 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,978 - INFO - Stored data for registration number: 22105113908 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,979 - INFO - Stored data for registration number: 22105113908 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,979 - INFO - Stored data for registration number: 22105113908 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,979 - INFO - Stored data for registration number: 22105113908 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,980 - INFO - Stored data for registration number: 22105113907 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,980 - INFO - Stored data for registration number: 22105113907 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,980 - INFO - Stored data for registration number: 22105113907 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,981 - INFO - Stored data for registration number: 22105113907 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,981 - INFO - Stored data for registration number: 22105113907 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,981 - INFO - Stored data for registration number: 22105113906 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,982 - INFO - Stored data for registration number: 22105113906 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:13,982 - INFO - Stored data for registration number: 22105113906 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,982 - INFO - Stored data for registration number: 22105113906 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,983 - INFO - Stored data for registration number: 22105113906 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,983 - INFO - Stored data for registration number: 22105113910 in sheet: MATHEMATICS-III (DIFFERENTIAL CALCULUS)
+2024-09-12 16:46:13,983 - INFO - Stored data for registration number: 22105113910 in sheet: OBJECT ORIENTED PROGRAMMING USING C++
+2024-09-12 16:46:13,984 - INFO - Stored data for registration number: 22105113910 in sheet: TECHNICAL WRITING
+2024-09-12 16:46:13,984 - INFO - Stored data for registration number: 22105113910 in sheet: ANALOG ELECTRONIC CIRCUITS
+2024-09-12 16:46:13,984 - INFO - Stored data for registration number: 22105113910 in sheet: DATA STRUCTURE & ALGORITHMS
+2024-09-12 16:46:14,105 - INFO - Data saved to results/CSE_2021_SEM-3.xlsx
+2024-09-12 16:46:14,107 - INFO - 127.0.0.1 - - [12/Sep/2024 16:46:14] "POST /beu HTTP/1.1" 200 -

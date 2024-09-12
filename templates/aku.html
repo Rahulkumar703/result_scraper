@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AKU Result Download</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        h1 {
+            text-align: center;
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        label {
+            margin-bottom: 5px;
+        }
+        select, input[type="text"], input[type="submit"] {
+            padding: 8px;
+            font-size: 16px;
+        }
+        input[type="submit"] {
+            cursor: pointer;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            font-size: 18px;
+        }
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>AKU Result Downloader</h1>
+        <form method="POST" action="/aku">
+            <label for="batch">Batch:</label>
+            <input type="text" id="batch" name="batch" value="2021" readonly>
+
+            <label for="semester">Semester:</label>
+            <select id="semester" name="semester">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3" disabled>3</option>
+                <option value="4" disabled>4</option>
+                <option value="5" disabled>5</option>
+                <option value="6" disabled>6</option>
+                <option value="7" disabled>7</option>
+                <option value="8" disabled>8</option>
+            </select>
+
+            <label for="branch">Branch:</label>
+            <select id="branch" name="branch">
+                <!-- These options will be populated with a script -->
+            </select>
+
+            <input type="submit" value="Download Results">
+        </form>
+    </div>
+
+    <script>
+        // Populate branch dropdown dynamically
+        const branches = {
+  "CSE": "Computer Science and Engineering",
+  "CIVIL": "Civil Engineering",
+  "MECH": "Mechanical Engineering",
+  "EEE": "Electrical and Electronics Engineering",
+  "AI": "Artificial Intelligence",
+  "CA": "Civil Engineering with Computer Applications"
+};
+
+        const branchSelect = document.getElementById('branch');
+        for (const [key, value] of Object.entries(branches)) {
+            const option = document.createElement('option');
+            option.value = key;
+            option.textContent = value;
+            branchSelect.appendChild(option);
+            option.disabled = key === "AI" || key === "CA"
+        }
+    </script>
+</body>
+</html>

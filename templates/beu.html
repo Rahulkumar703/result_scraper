@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BEU Result Download</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        h1 {
+            text-align: center;
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        label {
+            margin-bottom: 5px;
+        }
+        select, input[type="text"], input[type="url"], input[type="submit"] {
+            padding: 8px;
+            font-size: 16px;
+        }
+        input[type="submit"] {
+            cursor: pointer;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            font-size: 18px;
+        }
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>BEU Result Downloader</h1>
+        <form method="POST" action="/beu">
+            <label for="batch">Batch:</label>
+            <select id="batch" name="batch" onchange="handleBatchChange()">
+                <!-- Batch options will be populated with a script -->
+            </select>
+
+            <label for="semester">Semester:</label>
+            <select id="semester" name="semester">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+            </select>
+
+            <label for="branch">Branch:</label>
+            <select id="branch" name="branch">
+                <!-- Branch options will be populated with a script -->
+            </select>
+            
+            <label for="url">Result Url of any Student:</label>
+            <input name="url" type="url" placeholder="eg: https://results.akuexam.net/ResultsBTechBPharm2ndSemPub2022.aspx?Sem=II&RegNo=21105113012">
+
+            <input type="submit" value="Download Results">
+        </form>
+    </div>
+
+    <script>
+        // Populate batch dropdown dynamically
+        function populateBatchDropdown() {
+            const batchSelect = document.getElementById('batch');
+            const currentYear = new Date().getFullYear();
+            const startYear = 2021;
+            const endYear = currentYear - 1;
+            
+            for (let year = startYear; year <= endYear; year++) {
+                const option = document.createElement('option');
+                option.value = year;
+                option.textContent = year;
+                batchSelect.appendChild(option);
+            }
+        }
+
+        // Populate branch dropdown dynamically
+        function populateBranchDropdown() {
+            const branches = {
+                "CSE": "Computer Science and Engineering",
+                "CIVIL": "Civil Engineering",
+                "MECH": "Mechanical Engineering",
+                "EEE": "Electrical and Electronics Engineering",
+                "AI": "Artificial Intelligence",
+                "CA": "Civil Engineering with Computer Applications"
+            };
+
+            const branchSelect = document.getElementById('branch');
+            for (const [key, value] of Object.entries(branches)) {
+                const option = document.createElement('option');
+                option.value = key;
+                option.textContent = value;
+                branchSelect.appendChild(option);
+            }
+        }
+
+        // Handle batch change to enable/disable semester options
+        function handleBatchChange() {
+            const batchSelect = document.getElementById('batch');
+            const semesterSelect = document.getElementById('semester');
+            const selectedBatch = batchSelect.value;
+            
+            // Enable all options first
+            Array.from(semesterSelect.options).forEach(option => {
+                option.disabled = false;
+            });
+            
+            // Disable options based on the selected batch
+            if (selectedBatch == 2021) {
+                semesterSelect.querySelector('option[value="1"]').disabled = true;
+                semesterSelect.querySelector('option[value="2"]').disabled = true;
+            }
+        }
+
+        // Call functions to populate dropdowns
+        populateBatchDropdown();
+        populateBranchDropdown();
+    </script>
+</body>
+</html>
