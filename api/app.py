@@ -3,7 +3,7 @@ import os
 import logging
 from scrape import save_results_to_excel
 
-app = Flask(__name__)
+app = Flask(__name__,template_folder='../templates')
 
 # Constants
 BRANCHES = {"CSE": 105, "CIVIL": 101, "MECH": 102, "EEE": 110, "AI": 115, "CA": 119}
