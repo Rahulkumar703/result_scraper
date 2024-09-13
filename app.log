@@ -441,3 +441,13 @@
 2024-09-12 16:46:13,984 - INFO - Stored data for registration number: 22105113910 in sheet: DATA STRUCTURE & ALGORITHMS
 2024-09-12 16:46:14,105 - INFO - Data saved to results/CSE_2021_SEM-3.xlsx
 2024-09-12 16:46:14,107 - INFO - 127.0.0.1 - - [12/Sep/2024 16:46:14] "POST /beu HTTP/1.1" 200 -
+2024-09-12 16:58:39,669 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8001
+ * Running on http://192.168.1.135:8001
+2024-09-12 16:58:39,670 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-12 16:58:39,672 - INFO -  * Restarting with stat
+2024-09-12 16:58:40,788 - WARNING -  * Debugger is active!
+2024-09-12 16:58:40,823 - INFO -  * Debugger PIN: 358-715-445
+2024-09-12 16:59:08,512 - INFO - 127.0.0.1 - - [12/Sep/2024 16:59:08] "GET / HTTP/1.1" 200 -
+2024-09-12 16:59:09,525 - INFO - 127.0.0.1 - - [12/Sep/2024 16:59:09] "GET /aku HTTP/1.1" 200 -
